@@ -3,4 +3,5 @@ void main() {
   print('ozodbek');
   print('axmatov');
   print('ozodbek axmatov');
+  print('object');
 }
